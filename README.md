@@ -6,11 +6,11 @@
 - **Software Engineer degree** @ [ITBA](https://www.itba.edu.ar)
 - **Information Technology Analyst** associate's degree @ [ITBA](https://www.itba.edu.ar)
 
-## Portfolio (under construction 👷🚧)
+## ⚠️Portfolio (under construction 👷🚧)
 - [My Portfolio](https://spreusche.github.io)
 
 
-## Certifications
+## 🪪 Certifications
 - [Google Cloud Essentials](https://www.cloudskillsboost.google/public_profiles/17d9ca7a-a354-4db0-83c1-ffd3c425635a/badges/1787297)
 - [Create and Manage Cloud Resources](https://www.cloudskillsboost.google/public_profiles/17d9ca7a-a354-4db0-83c1-ffd3c425635a/badges/1798331)
 
