@@ -1,5 +1,5 @@
 ## 👋 Hi there! I’m Santiago Preusche
-- 💻 Software Engineer from Argentina 🇦🇷
+- 💻 Software Engineer and MSc
 - Argentinean 🇦🇷 and Italian 🇮🇹
 - Currently living in Vienna 🇦🇹
 - **Master of Science in Engineering (MSc)** @  [FHTW](https://www.technikum-wien.at/)
