@@ -1,7 +1,7 @@
 ## 👋 Hi there! I’m Santiago Preusche
-- 💻 I’m a recently graduated Software Engineer from Argentina 🇦🇷
+- 💻 Software Engineer from Argentina 🇦🇷
 - Argentinean 🇦🇷 and Italian 🇮🇹
-- Currently living in Europe
+- Currently living in Vienna 🇦🇹
 - **Master of Science in Engineering (MSc)** @  [FHTW](https://www.technikum-wien.at/)
 - **Software Engineer degree** @ [ITBA](https://www.itba.edu.ar)
 - **Information Technology Analyst** associate's degree @ [ITBA](https://www.itba.edu.ar)
