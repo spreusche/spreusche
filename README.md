@@ -6,7 +6,7 @@
 - **Software Engineer degree** @ [ITBA](https://www.itba.edu.ar)
 - **Information Technology Analyst** associate's degree @ [ITBA](https://www.itba.edu.ar)
 
-## ⚠️Portfolio (under construction 👷🚧)
+## 🌐 Portfolio
 - [My Portfolio](https://spreusche.github.io)
 
 
